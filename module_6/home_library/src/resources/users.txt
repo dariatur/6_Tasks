@@ -1,0 +1,4 @@
+login=darida password=12dcb6dca0de7b0d06b95ff45a011630 type=Admin email=dasha@mail.ru
+login=fada password=47fe4aef5c13a8e365bbb0ea1cdce1a9 type=User email=dasha@mail.ru
+login=abcdef password=063165f7aa68c3ad3e9fbe632f9d8a8d type=User email=aaaaaaaa34@mail.ru
+login=turbina password=368e53757e3e6a80fbedb38ddeb57980 type=User email=fgdgdgaj@gmail.com

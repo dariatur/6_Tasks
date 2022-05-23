@@ -1,0 +1,4 @@
+title=1984, author=G.Orwell, year=1949, type=Paper
+title=The Great Gatsby, author=F. Scott Fitzgerald, year=2014, type=Paper
+title=War and Peace, author=Leo Tolstoy, year=1999, type=Paper
+title=Hamlet, author=William Shakespeare, year=2001, type=Paper
